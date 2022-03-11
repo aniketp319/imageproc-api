@@ -6,7 +6,7 @@ gunicorn==19.9.0
 image==1.5.27
 numpy==1.16.2
 opencv-python==4.0.0.21
-Pillow==5.4.1
+Pillow==9.0.1
 Pillow-PIL==0.1.dev0
 requests==2.21.0
 requests-oauthlib==1.2.0
